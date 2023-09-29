@@ -18,15 +18,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '主页⛏',
       url: 'https://081113.xyz/'
     },
     {
-      text: 'Navigation',
+      text: '起始页🏆',
       url: 'https://nav.081113.xyz'
     },
     {
-      text: 'Blog',
+      text: '博客🎲',
       url: 'https://blog.081113.xyz/'
     },
   ],
